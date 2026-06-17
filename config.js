@@ -1,20 +1,20 @@
 /**
  * config.js — Site identity and accent color configuration
- * nonhumanidentitysoftware.com
+ * independentdefender.com
  *
- * accent:     #7B3FA6  (purple)
- * accentDim:  #5C2E7D  (~15% darker)
- * accentPale: #F0E8F7  (very light tint, used for callout backgrounds)
+ * accent:     #C0392B  (red)
+ * accentDim:  #992d22  (~15% darker)
+ * accentPale: #fdf0ee  (very light tint, used for callout backgrounds)
  */
 
 window.SITE_CONFIG = {
-  name:      "Non-Human Identity Software",
-  nameHtml:  "Non-Human <span>Identity</span> Software",
-  domain:    "nonhumanidentitysoftware.com",
-  tagline:   "Independent guidance for NHI security buyers",
-  accent:    "#7B3FA6",
-  accentDim: "#5C2E7D",
-  accentPale:"#F0E8F7"
+  name:      "The Independent Defender",
+  nameHtml:  "The Independent <span>Defender</span>",
+  domain:    "independentdefender.com",
+  tagline:   "Cybersecurity software intelligence for CISO-track practitioners",
+  accent:    "#C0392B",
+  accentDim: "#992d22",
+  accentPale:"#fdf0ee"
 };
 
 (function() {
